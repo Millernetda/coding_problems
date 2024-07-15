@@ -10,6 +10,6 @@ void main() {
       odds.add(items[i]);
     }
   }
-  print('evens $evens');
-  print('odds $odds');
+  print(evens);
+  print(odds);
 }
